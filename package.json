@@ -1,6 +1,6 @@
 {
   "scripts": {
-  "start": "node index.js",
+  "start": "node app.js",
     "build": "npm install && npm run build-assets"
 }
   "dependencies": {
