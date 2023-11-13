@@ -1,6 +1,7 @@
 {
   "scripts": {
-  "start": "node index.js"
+  "start": "node index.js",
+    "build": "npm install && npm run build-assets"
 }
   "dependencies": {
     "body-parser": "^1.20.2",
